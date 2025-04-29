@@ -1,2 +1,2 @@
 # cssj
-Comboni Secondary School Juba Website
+St. Daniel Comboni Secondary School Juba Official Website
